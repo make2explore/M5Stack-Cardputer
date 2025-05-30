@@ -1,35 +1,36 @@
 # M5Stack-AtomS3
 Device Overview - Getting Started with M5Stack's AtomS3  
 
-<img src="/Images/atom1.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/atom2.png" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/atom3.png" height="200" >
+<img src="/Images/cardputer-1.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/cardputer-2.jpg" height="200" >   
   
-**AtomS3** is a highly integrated programmable controller based on the ESP32-S3 main controller. It integrates the ESP32-S3 main controller, Wi-Fi functionality, 8 MB on-chip FLASH, and a 0.85-inch IPS screen. Below the screen, there is a programmable button function, a built-in 5V to 3.3V circuit, and a 6-axis gyroscope sensor MPU6886. It has an onboard USB Type-C interface for power supply and firmware download, as well as a HY2.0-4P expansion port. The bottom reserves 6 GPIO and power pins for easy expansion applications. The product size is 24.0 x 24.0 x 13.0mm, suitable for various embedded smart device applications.  
+**The Cardputer** is a credit card-sized computer created by **M5Stack**, part of their M5 product line. It’s designed to be ultra-portable, low-power, and great for embedded systems or personal projects that need a compact computing platform. It typically functions as a mini-computer or development board, often used for programming, hacking, wireless communication (like Wi-Fi or Bluetooth), and IoT projects.
   
-The Atom S3 supports multiple development platforms, including Arduino IDE, UiFlow2, ESP-IDF, and PlatformIO, making it accessible for both beginners and advanced developers.
+**Cardputer** v1.1 is a high-performance card computer designed for engineers, offering a comprehensive upgrade over the original Cardputer. The new version features the brand new StampS3A main controller, with optimized antenna and button design for the core module, significantly enhancing system stability and user experience. In terms of control interaction, the product is equipped with a 56-key keyboard and a 1.14-inch TFT screen for efficient display and operation; it includes an onboard SPM1423 digital MEMS microphone supporting recording and wake-up functions, and outputs audio through a cavity speaker. Additionally, an infrared emitter provides external infrared control interaction capabilities. For expansion, the built-in Grove interface facilitates custom sensor expansion; for storage, a Micro SD card slot is available for easy storage expansion. The power system uses an internal 120mAh and a base 1400mAh lithium battery power solution, integrating lithium battery charging and boost-buck circuits, greatly enhancing battery life. Structurally, the base includes magnets for metal attachment and is compatible with LEGO hole expansion. This product is widely applicable in various scenarios such as rapid function verification for engineers, industrial control, and home control systems.
   
   
 ## Documentation
 
-Refer the [Documentation website](https://docs.m5stack.com/en/core/AtomS3) for more information.  
+Refer the [Documentation website](https://docs.m5stack.com/en/core/Cardputer%20V1.1) for more information.  
 
 **Hardware**
-- [AtomS3](https://docs.m5stack.com/en/core/AtomS3)  
+- [AtomS3](https://docs.m5stack.com/en/core/Cardputer%20V1.1)  
   
 **Software**
 - Arduino  
-    [AtomS3 Arduino Library](https://github.com/m5stack/M5AtomS3)  
-    [AtomS3 User Demo](https://github.com/m5stack/M5AtomS3-UserDemo)  
+    [Cardputer Arduino IDE Tutorial](https://docs.m5stack.com/en/arduino/arduino_ide)  
+    [Cardputer Arduino Library](https://github.com/m5stack/M5Cardputer)  
+    [Cardputer User Demo](https://github.com/m5stack/M5Cardputer-UserDemo)  
 
 - Graphical Programming  
-    AtomS3 Quick Start Guide  
-    [UiFlow2](https://docs.m5stack.com/en/uiflow2/uiflow_web)  
+    Cardputer Quick Start Guide  
+    [UiFlow2](https://docs.m5stack.com/en/uiflow2/cardputer/program)  
   
 
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
 
-▶️  AtomS3 – ESP32-S3 in a 1-Inch Box! + Display! 🔗 https://youtube.com/shorts/0X7OFbnUREU
+▶️  The Cardputer - credit card-sized computer 🔗 https://youtube.com/shorts/5HnkAK4ttmY  
   
 ▶️  [DIY Project]  🔗  https://youtu.be  
 
@@ -37,21 +38,21 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/AtomS3) for m
 📒 **Important Links**  
  
 🌐 M5Stack - 🔗 https://docs.m5stack.com  
-📒 AtomS3 🔗 https://docs.m5stack.com/en/core/AtomS3  
-📙 AtomS3 Purchase 🔗 https://shop.m5stack.com/products/atoms3-dev-kit-w-0-85-inch-screen  
-⚙️ UIFLow2 Web IDE Docs🔗 https://docs.m5stack.com/en/uiflow2/uiflow_web  
+📒 Cardputer 🔗 https://docs.m5stack.com/en/core/Cardputer%20V1.1  
+📙 Cardputer Purchase 🔗 https://shop.m5stack.com/products/m5stack-cardputer-with-m5stamps3-v1-1  
+⚙️ UIFLow2 Web IDE Docs🔗 https://docs.m5stack.com/en/uiflow2/cardputer/program  
 ⚙️ Arduino IDE Docs 🔗 https://docs.m5stack.com/en/arduino/arduino_ide  
-📘 UIFLow Web IDE - 🔗 https://flow.m5stack.com/  
+📘 UIFLow2 Web IDE - 🔗 https://uiflow2.m5stack.com/  
 
 🧰 Hardware  
---   [AtomS3-Store]  🔗 https://shop.m5stack.com/products/atoms3-dev-kit-w-0-85-inch-screen  
+--   [Cardputer-Store]  🔗 https://shop.m5stack.com/products/atoms3-dev-kit-w-0-85-inch-screen  
 --   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor  
 
 ------------------------------------------------------------------------------------------------------
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/M5Stack-AtomS3  
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/M5Stack-Cardputer   
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
