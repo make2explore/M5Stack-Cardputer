@@ -13,7 +13,7 @@ Device Overview - Getting Started with M5Stack's AtomS3
 Refer the [Documentation website](https://docs.m5stack.com/en/core/Cardputer%20V1.1) for more information.  
 
 **Hardware**
-- [AtomS3](https://docs.m5stack.com/en/core/Cardputer%20V1.1)  
+- [Cardputer](https://docs.m5stack.com/en/core/Cardputer%20V1.1)  
   
 **Software**
 - Arduino  
