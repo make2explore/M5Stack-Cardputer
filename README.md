@@ -45,7 +45,7 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/Cardputer%20V
 📘 UIFLow2 Web IDE - 🔗 https://uiflow2.m5stack.com/  
 
 🧰 Hardware  
---   [Cardputer-Store]  🔗 https://shop.m5stack.com/products/atoms3-dev-kit-w-0-85-inch-screen  
+--   [Cardputer-Store]  🔗 https://shop.m5stack.com/products/m5stack-cardputer-with-m5stamps3-v1-1  
 --   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor  
 
 ------------------------------------------------------------------------------------------------------
