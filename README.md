@@ -1,7 +1,7 @@
-# M5Stack-AtomS3
-Device Overview - Getting Started with M5Stack's AtomS3  
+# M5Stack-Cardputer
+Device overview and Getting Started with Cardputer  
 
-<img src="/Images/cardputer-1.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/cardputer-2.jpg" height="200" >   
+<img src="/Images/cardputer-1.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/cardputer-2.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/cardputer-3.jpg" height="200" > 
   
 **The Cardputer** is a credit card-sized computer created by **M5Stack**, part of their M5 product line. It’s designed to be ultra-portable, low-power, and great for embedded systems or personal projects that need a compact computing platform. It typically functions as a mini-computer or development board, often used for programming, hacking, wireless communication (like Wi-Fi or Bluetooth), and IoT projects.
   
