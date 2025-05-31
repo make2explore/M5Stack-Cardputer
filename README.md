@@ -30,7 +30,7 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/Cardputer%20V
 
 📕 **YouTube Video Links**  
 
-▶️  The Cardputer - credit card-sized computer 🔗 https://youtube.com/shorts/CsOfniTX_KA  
+▶️  The Cardputer - credit card-sized computer 🔗 https://youtube.com/shorts/  
   
 ▶️  [DIY Project]  🔗  https://youtu.be  
 
